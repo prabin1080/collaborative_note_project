@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:prabin1080/collaborative_note.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:prabin1080/collaborative-notes-frontend.git
